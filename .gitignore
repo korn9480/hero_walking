@@ -1,0 +1,7 @@
+__pycache__
+test.py
+test2.py
+*.log
+component/
+dist/
+*.ff
